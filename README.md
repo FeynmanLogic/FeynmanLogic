@@ -2,7 +2,7 @@
 
 ## 👋 Hello there! I'm Dhruv Kulkarni
 
-- **Location:** Surat, India
+- **College Location:** Surat, India, I live in Pune.
 - **Email:** dhruvkulkarni22@gmail.com
 
 ### About me:
