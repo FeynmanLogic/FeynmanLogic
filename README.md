@@ -7,11 +7,12 @@
 
 ### About me:
 
+- Remote Research Intern at George Mason University
 - 🎓 Bachelor of Technology at SVNIT, Surat
 - 🧠 Passionate Computer Enthusiast, interested in Computer Architecture for Machine Learning Algorithms.
 - 📚 Interested in Pursuing Higher Education
+- Current Cumulative Grade Point Average (CGPA): 8.89/10
 - 🎓 High School: Cambridge College of Arts, Science and Commerce, Pune - Grade obtained: 93.33%
-- 🏫 Secondary School: Podar International School, Pimpri, Pune - Grade obtained: 95.8%
 - 🗓️ Expected Graduation: Dec, 2021 - 2025
 
 # My Philosophy
