@@ -7,6 +7,7 @@
 
 ### About me:
 
+- Hardware Design Engineer at 9Corner Solutions
 - Remote Research Intern at George Mason University
 - 🎓 Bachelor of Technology at SVNIT, Surat
 - 🧠 Passionate Computer Enthusiast, interested in Computer Architecture for Machine Learning Algorithms.
