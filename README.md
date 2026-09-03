@@ -2,12 +2,13 @@
 
 ## 👋 Hello there! I'm Dhruv Kulkarni
 
-- **College Location:** Surat, India, I live in Pune.
-- **Email:** dhruvkulkarni22@gmail.com
+- **College Location:** Atlanta,USA. I live in Pune.
+- **Email:** dkulkarni47@gatech.edu/dhruvkulkarni22@gmail.com
 
 ### About me:
 
-- Hardware Design Engineer Intern at 9Corner Solutions
+- Current MS ECE student at GeorgiaTech
+- Former Hardware Design Engineer Intern at 9Corner Solutions
 - Former Remote Research Intern at George Mason University
 - 🎓 Bachelor of Technology at SVNIT, Surat
 - 🧠 Passionate Computer Enthusiast, interested in Computer Architecture for Machine Learning Algorithms.
